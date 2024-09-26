@@ -1,0 +1,18 @@
+{
+  "1": {
+    "PlayerID": "1",
+    "Bans": {
+      "Racism": 0,
+      "Sexism": 0,
+      "Sabotage": 0
+    }
+  },
+  "2": {
+    "PlayerID": "2",
+    "Bans": {
+      "Racism": 0,
+      "Sexism": 0,
+      "Sabotage": 0
+    }
+  }
+}
